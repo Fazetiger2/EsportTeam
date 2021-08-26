@@ -1,0 +1,19 @@
+h2 {
+  background-color: #00aaff;
+  color: #0010f5;
+}
+p {
+  font-size: 20px;
+  width: 5em;
+}
+h1 {
+  font-size: 65px;
+}
+.title {
+  font-size: 65px;
+}
+h2{background-color: #0010f5;
+color: aqua;
+}
+index.html{background-color: aqua;
+color: blue;}
